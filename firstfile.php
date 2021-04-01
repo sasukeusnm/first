@@ -7,3 +7,4 @@
   <body>
     <p><?php echo "myname" ?></p>
   </body>
+</html>
